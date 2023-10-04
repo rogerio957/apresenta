@@ -1,0 +1,26 @@
+
+
+#EXTM3U
+
+#EXTINF:-Câmera ao vivo do bar do Sloppy Joe-street
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.vtcldi6.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w80308562_b3096000.m3u8
+#EXTINF:-FOZ DO IGUAÇU-Ponte da Amizade - Sentido Paraguai-Brasil
+https://edge04.balticlivecam.com/blc/p_BR_Friendship_Bridge/tracks-v1/mono.m3u8?token=4e1de549cd20b193c1ca56de0abc5e0e%3A1696417869388
+#EXTINF:-ARAUCARIA-Brasil
+https://edge01.balticlivecam.com/blc/p_BR_Araucaria/tracks-v1/mono.m3u8?token=ab1abb800654880a62593eeb07f56330%3A1696418082064
+#EXTINF:-BALNEÁRIO CAMBORIÚ-Brasil
+https://edge04.balticlivecam.com/blc/p_BR_Balneario_Camboriu/tracks-v1/mono.m3u8?token=11c2c8b3dbd853740de8a35b65bb54a0%3A1696418213675
+#EXTINF:-LIONS IN SMITHSONIAN NATIONAL ZOO
+https://edge01.balticlivecam.com/blc/p_Animals_Lions_Smithsonian_national_zoo/tracks-v1/mono.m3u8?token=16c2f43dbdf598903f8934157541ecaa%3A1696418397825
+#EXTINF:-bar do Sloppy Joe
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w68730948_b3096000.m3u8
+#EXTINF:-Sentido Ponte da Amizade-camera 2
+https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/chunklist_w2046358015.m3u8
+#EXTINF:-Aduana Ponte da Amizade-camera 3
+https://video02.logicahost.com.br/portaldacidade/fozaduanapontedaamizade.stream/chunklist_w1068679414.m3u8
+#EXTINF:-Square de Nova York
+https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w741932048.m3u8?t=vBci5OreTDT5OVZWlrH3hFWPpk6y83Y18ohQ4H190JNF7I1GDRv948LCL6wIpinggoIsG0yRrDOb80geShLy3Q%3D%3D
+#EXTINF:-Dublin, Irlanda
+https://videos-3.earthcam.com/fecnetwork/14320.flv/chunklist_w423362696.m3u8?t=tBywzTYURGbEtGxF1LfyCkm5AvmWDkmIcwUf7arKv5SRH7AOK8848%2F4oAjij%2B4da
+#EXTINF:-Sports World Chicago 
+https://videos-3.earthcam.com/fecnetwork/13661.flv/chunklist_w2141190741.m3u8?t=RLwfbNlAu1quBC9DjUbOPrroBvBHA7%2F5h3FXIwkQhFzvAzN%2F3cjy8r7cm%2Bi01tpa
